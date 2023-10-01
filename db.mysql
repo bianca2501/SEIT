@@ -1,0 +1,5 @@
+CREATE TABLE Student
+(Reg_no varchar2(10),
+Name char(30),
+DOB date,
+Address varchar2(50));
